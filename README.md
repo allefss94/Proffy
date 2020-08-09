@@ -10,4 +10,6 @@ Front-end, e CSS3 puro para estilização.
 
 ### Sua colaboração é muito bem vinda, mande seu commit ;)
 
+Em desenvolvimento...
+
 <img src="src/proffy gif.gif">
