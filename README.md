@@ -1,7 +1,7 @@
 # Proffy
 
 O Proffy é um projeto originalmente criado pela RocketSeat e desenvolvido durante
-a Next Level Week, onde é explorado os fundamentos do desenvolvimento desde o Back-end, Front-end e Mobile. E aqui estaremos reproduzindo uma réplica (não exata) do Front-end.
+a Next Level Week, onde são explorados os fundamentos do desenvolvimento desde o Back-end, Front-end e Mobile. E aqui estaremos reproduzindo uma réplica (não exata) do Front-end.
 
 ## Tecnologias utilizadas
 
