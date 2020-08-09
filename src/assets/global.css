@@ -1,0 +1,27 @@
+* {
+  --color-background: radial-gradient(
+    circle,
+    rgba(32, 100, 189, 1) 0%,
+    rgba(9, 105, 230, 1) 100%
+  );
+  --color-background-secondary: #e9e9e9;
+  --color-background-card-footer-border: #c9c9c9;
+  --color-background-card-footer: #dadada;
+  --color-background-card: #f8f8f8;
+  --color-text-in-primary: #f1f1f1;
+  --color-text-in-primary-dark: #cfcfcf;
+  --color-text-in-secondary: #505050;
+  --color-button-contact: #5fd464;
+  --color-button-contact-dark: #34ad38;
+  --color-button: #db5461;
+  --color-button-dark: #da4756;
+  --color-button-secondary: #f9e9ec;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: var(--color-background-secondary);
+}

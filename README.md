@@ -1,24 +1,11 @@
-# proffy
+# Proffy
 
-## Project setup
-```
-yarn install
-```
+O Proffy é um projeto originalmente criado pela RocketSeat e desenvolvido durante
+a Next Level Week, onde é explorado os fundamentos do desenvolvimento desde o Back-end, Front-end e Mobile. E aqui estaremos reproduzindo uma réplica (não exata) do Front-end.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Tecnologias utilizadas
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Fugindo da versão original, nesta versão estaremos utilizando Vue.js como framework
+Front-end, e CSS3 puro para estilização.
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Sua colaboração é muito bem vinda, mande seu commit ;)
