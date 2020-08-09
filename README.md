@@ -9,3 +9,5 @@ Fugindo da versão original, nesta versão estaremos utilizando Vue.js como fram
 Front-end, e CSS3 puro para estilização.
 
 ### Sua colaboração é muito bem vinda, mande seu commit ;)
+
+<img src="src/proffy gif.gif">
